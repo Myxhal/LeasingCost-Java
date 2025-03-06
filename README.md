@@ -17,8 +17,7 @@ A Java program that calculates and compares the total leasing costs of various g
    - `LeasingCost.java`  
    - `Fuel.java`  
    - `Lease.java`  
-   - `Vehicle.java`  
-   - `RecursiveAppend.java`  
+   - `Vehicle.java`   
    - `StdIn.java`  
    - `StdOut.java`  
    - `vehicles.txt`  
