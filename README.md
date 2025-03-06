@@ -27,4 +27,4 @@ A Java program that calculates and compares the total leasing costs of various g
    javac LeasingCost.java Fuel.java Lease.java Vehicle.java RecursiveAppend.java StdIn.java StdOut.java
 3. **Run the program**:  
    ```bash  
-   java LeasingCost  
+   java LeasingCost vehicles.txt 3.85 11.0 
